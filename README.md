@@ -1,6 +1,6 @@
 # How-to-customize-the-background-color-and-size-of-WPF-3D-chart
 This article explains how to customize the background color and size of the 3D chart wall in Syncfusion WPF SfChart as shown in the following image.
-
+![](Output.gif)
 This can be achieved by setting the desired brush color to the wall and to change the size of the wall by using the property WallSize as shown in below code snippet.
 
 **[XAML]**
