@@ -41,6 +41,7 @@ This can be achieved by setting the desired brush color to the wall and to chang
     </Syncfusion:SfChart3D >
 ```
 
+KB article - [How-to-customize-the-background-color-and-size-of-WPF-3D-chart](https://www.syncfusion.com/kb/11885/how-to-customize-the-wall-of-wpf-3d-charts)
 
 **See also**
 
