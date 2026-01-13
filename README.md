@@ -40,8 +40,13 @@ This can be achieved by setting the desired brush color to the wall and to chang
 
     </Syncfusion:SfChart3D >
 ```
+## Troubleshooting
 
-KB article - [How-to-customize-the-background-color-and-size-of-WPF-3D-chart](https://www.syncfusion.com/kb/11885/how-to-customize-the-wall-of-wpf-3d-charts)
+#### Path too long exception
+
+If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
+
+For more details, refer to the KB on [How to customize the wall of WPF 3D Charts?](https://www.syncfusion.com/kb/11885/how-to-customize-the-wall-of-wpf-3d-charts).
 
 **See also**
 
